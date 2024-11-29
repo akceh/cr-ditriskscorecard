@@ -1,1 +1,1 @@
-streamlit run updated_interface1.py --server.port 8000 --server.address 0.0.0.0
+python -m streamlit run stage1/updated_interface.py --server.port=8000 --server.address=0.0.0.0
