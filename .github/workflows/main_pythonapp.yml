@@ -22,7 +22,7 @@ jobs:
         run: |
           python -m venv venv
           source venv/bin/activate
-
+      
       - name: Install dependencies
         run: pip install -r requirements.txt
         
@@ -46,7 +46,7 @@ jobs:
       name: 'Production'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
     permissions:
-      id-token: write #This is required for requesting the JWT
+      id-token: write # This is required for requesting the JWT
 
     steps:
       - name: Download artifact from build job
@@ -57,18 +57,23 @@ jobs:
       - name: Unzip artifact for deployment
         run: unzip release.zip
 
-      # Etape de connexion à Azure
       - name: Login to Azure
         uses: azure/login@v2
         with:
-          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_C3BF7033C1814C2AA38EC398060D9DCA }}
-          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_B65C6676A15943FA8D6FFF5E1B58E219 }}
-          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_19874080D4AD48C7B128E0DAC3B95A9C }}
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID }}
 
-      # Déploiement de l'application
-      - name: Deploy to Azure Web App
+      # Deploy to Azure Web App
+      - name: 'Deploy to Azure Web App'
         uses: azure/webapps-deploy@v2
         with:
-          app-name: 'Pythonapp'  # Nom de votre application Azure Web App
-          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}  # Utilisation du secret GitHub
+          app-name: testpythonap
+          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
           package: release.zip
+
+      # Add command to run streamlit after deployment
+      - name: Start Streamlit
+        run: |
+          streamlit updated_interface1.py 
+
