@@ -64,10 +64,10 @@ jobs:
       - name: Configure Startup Command
         run: |
           az webapp config set --name pythonapps \
-            --resource-group ASP-CreditRiskScorecardsgroup-bc27 \
+            --resource-group pythonapp \
             --startup-file "python -m streamlit run stage1/updated_interface.py --server.port=8000 --server.address=0.0.0.0"
 
       # Optional: Restart the Azure Web App
       - name: Restart Web App
         run: |
-          az webapp restart --name pythonapps --resource-group ASP-CreditRiskScorecardsgroup-bc27
+          az webapp restart --name pythonapps --resource-group pythonapp
