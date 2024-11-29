@@ -1,0 +1,1736 @@
+2024-08-29 15:16:19 - User: assistant
+2024-08-29 15:16:19 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-29 15:16:42 - User: user
+2024-08-29 15:16:42 - Assistant: Project Title: création d'un score d'octroi
+Scorecard Type: Score d’octroi
+Client Category: Particuliers
+Product Type: Consommation
+Maximisation des Profits
+développer la grille en interne
+2024-08-29 15:16:44 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-08-29 15:16:44 - HTTP Request: POST https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/messages "HTTP/1.1 200 OK"
+2024-08-29 15:16:45 - HTTP Request: POST https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/runs "HTTP/1.1 200 OK"
+2024-08-29 15:16:47 - HTTP Request: GET https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/runs/run_zsy2DPiUCaWGoJhWy2zMaO9m "HTTP/1.1 200 OK"
+2024-08-29 15:16:48 - HTTP Request: GET https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/runs/run_zsy2DPiUCaWGoJhWy2zMaO9m "HTTP/1.1 200 OK"
+2024-08-29 15:16:50 - HTTP Request: GET https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/runs/run_zsy2DPiUCaWGoJhWy2zMaO9m "HTTP/1.1 200 OK"
+2024-08-29 15:16:51 - HTTP Request: GET https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/runs/run_zsy2DPiUCaWGoJhWy2zMaO9m "HTTP/1.1 200 OK"
+2024-08-29 15:16:52 - HTTP Request: GET https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/runs/run_zsy2DPiUCaWGoJhWy2zMaO9m "HTTP/1.1 200 OK"
+2024-08-29 15:16:53 - HTTP Request: GET https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/runs/run_zsy2DPiUCaWGoJhWy2zMaO9m "HTTP/1.1 200 OK"
+2024-08-29 15:16:55 - HTTP Request: GET https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/runs/run_zsy2DPiUCaWGoJhWy2zMaO9m "HTTP/1.1 200 OK"
+2024-08-29 15:16:56 - HTTP Request: GET https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/runs/run_zsy2DPiUCaWGoJhWy2zMaO9m "HTTP/1.1 200 OK"
+2024-08-29 15:16:57 - HTTP Request: GET https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/runs/run_zsy2DPiUCaWGoJhWy2zMaO9m "HTTP/1.1 200 OK"
+2024-08-29 15:16:59 - HTTP Request: GET https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/runs/run_zsy2DPiUCaWGoJhWy2zMaO9m "HTTP/1.1 200 OK"
+2024-08-29 15:17:03 - HTTP Request: GET https://api.openai.com/v1/threads/thread_2gnG8fHrccUSW82t25z7ZhLl/messages "HTTP/1.1 200 OK"
+2024-08-29 15:17:03 - User: user
+2024-08-29 15:17:03 - Assistant: Project Title: création d'un score d'octroi
+Scorecard Type: Score d’octroi
+Client Category: Particuliers
+Product Type: Consommation
+Maximisation des Profits
+développer la grille en interne
+2024-08-29 15:17:04 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-08-29 15:17:04 - HTTP Request: POST https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/messages "HTTP/1.1 200 OK"
+2024-08-29 15:17:05 - HTTP Request: POST https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/runs "HTTP/1.1 200 OK"
+2024-08-29 15:17:07 - HTTP Request: GET https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/runs/run_2oLQ46JN9qKsZ2dguqtGpIPo "HTTP/1.1 200 OK"
+2024-08-29 15:17:08 - HTTP Request: GET https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/runs/run_2oLQ46JN9qKsZ2dguqtGpIPo "HTTP/1.1 200 OK"
+2024-08-29 15:17:10 - HTTP Request: GET https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/runs/run_2oLQ46JN9qKsZ2dguqtGpIPo "HTTP/1.1 200 OK"
+2024-08-29 15:17:11 - HTTP Request: GET https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/runs/run_2oLQ46JN9qKsZ2dguqtGpIPo "HTTP/1.1 200 OK"
+2024-08-29 15:17:13 - HTTP Request: GET https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/runs/run_2oLQ46JN9qKsZ2dguqtGpIPo "HTTP/1.1 200 OK"
+2024-08-29 15:17:14 - HTTP Request: GET https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/runs/run_2oLQ46JN9qKsZ2dguqtGpIPo "HTTP/1.1 200 OK"
+2024-08-29 15:17:16 - HTTP Request: GET https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/runs/run_2oLQ46JN9qKsZ2dguqtGpIPo "HTTP/1.1 200 OK"
+2024-08-29 15:17:17 - HTTP Request: GET https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/runs/run_2oLQ46JN9qKsZ2dguqtGpIPo "HTTP/1.1 200 OK"
+2024-08-29 15:17:18 - HTTP Request: GET https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/runs/run_2oLQ46JN9qKsZ2dguqtGpIPo "HTTP/1.1 200 OK"
+2024-08-29 15:17:20 - HTTP Request: GET https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/runs/run_2oLQ46JN9qKsZ2dguqtGpIPo "HTTP/1.1 200 OK"
+2024-08-29 15:17:21 - HTTP Request: GET https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/runs/run_2oLQ46JN9qKsZ2dguqtGpIPo "HTTP/1.1 200 OK"
+2024-08-29 15:17:21 - HTTP Request: GET https://api.openai.com/v1/threads/thread_CqmskqgQh7L6x5fm1m43GOaW/messages "HTTP/1.1 200 OK"
+2024-08-29 15:17:21 - User: Business Plan Query: Maximisation des Profits, développer la grille en interne
+2024-08-29 15:17:21 - Assistant: None
+2024-08-29 16:19:49 - User: user
+2024-08-29 16:19:49 - Assistant: Project Title: 
+Scorecard Type: Score d’octroi
+Client Category: Particuliers
+Product Type: Consommation
+Maximisation des Profits
+développer la grille en interne
+2024-08-29 16:19:50 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-08-29 16:19:50 - HTTP Request: POST https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/messages "HTTP/1.1 200 OK"
+2024-08-29 16:19:53 - HTTP Request: POST https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/runs "HTTP/1.1 200 OK"
+2024-08-29 16:19:55 - HTTP Request: GET https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/runs/run_3nZCnqvP3O3SavC8W2ObT0P0 "HTTP/1.1 200 OK"
+2024-08-29 16:19:56 - HTTP Request: GET https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/runs/run_3nZCnqvP3O3SavC8W2ObT0P0 "HTTP/1.1 200 OK"
+2024-08-29 16:19:58 - HTTP Request: GET https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/runs/run_3nZCnqvP3O3SavC8W2ObT0P0 "HTTP/1.1 200 OK"
+2024-08-29 16:19:59 - HTTP Request: GET https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/runs/run_3nZCnqvP3O3SavC8W2ObT0P0 "HTTP/1.1 200 OK"
+2024-08-29 16:20:00 - HTTP Request: GET https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/runs/run_3nZCnqvP3O3SavC8W2ObT0P0 "HTTP/1.1 200 OK"
+2024-08-29 16:20:02 - HTTP Request: GET https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/runs/run_3nZCnqvP3O3SavC8W2ObT0P0 "HTTP/1.1 200 OK"
+2024-08-29 16:20:03 - HTTP Request: GET https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/runs/run_3nZCnqvP3O3SavC8W2ObT0P0 "HTTP/1.1 200 OK"
+2024-08-29 16:20:04 - HTTP Request: GET https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/runs/run_3nZCnqvP3O3SavC8W2ObT0P0 "HTTP/1.1 200 OK"
+2024-08-29 16:20:06 - HTTP Request: GET https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/runs/run_3nZCnqvP3O3SavC8W2ObT0P0 "HTTP/1.1 200 OK"
+2024-08-29 16:20:07 - HTTP Request: GET https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/runs/run_3nZCnqvP3O3SavC8W2ObT0P0 "HTTP/1.1 200 OK"
+2024-08-29 16:20:09 - HTTP Request: GET https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/runs/run_3nZCnqvP3O3SavC8W2ObT0P0 "HTTP/1.1 200 OK"
+2024-08-29 16:20:09 - HTTP Request: GET https://api.openai.com/v1/threads/thread_MgNj0vSrXvrM4LoGypcsFV1G/messages "HTTP/1.1 200 OK"
+2024-08-29 16:20:09 - User: user
+2024-08-29 16:20:09 - Assistant: Project Title: 
+Scorecard Type: Score d’octroi
+Client Category: Particuliers
+Product Type: Consommation
+Maximisation des Profits
+développer la grille en interne
+2024-08-29 16:20:10 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-08-29 16:20:11 - HTTP Request: POST https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/messages "HTTP/1.1 200 OK"
+2024-08-29 16:20:12 - HTTP Request: POST https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs "HTTP/1.1 200 OK"
+2024-08-29 16:20:13 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs/run_tZag7CJwlbArLzFTJqz5xUAL "HTTP/1.1 200 OK"
+2024-08-29 16:20:15 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs/run_tZag7CJwlbArLzFTJqz5xUAL "HTTP/1.1 200 OK"
+2024-08-29 16:20:16 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs/run_tZag7CJwlbArLzFTJqz5xUAL "HTTP/1.1 200 OK"
+2024-08-29 16:20:18 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs/run_tZag7CJwlbArLzFTJqz5xUAL "HTTP/1.1 200 OK"
+2024-08-29 16:20:19 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs/run_tZag7CJwlbArLzFTJqz5xUAL "HTTP/1.1 200 OK"
+2024-08-29 16:20:20 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs/run_tZag7CJwlbArLzFTJqz5xUAL "HTTP/1.1 200 OK"
+2024-08-29 16:20:22 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs/run_tZag7CJwlbArLzFTJqz5xUAL "HTTP/1.1 200 OK"
+2024-08-29 16:20:23 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs/run_tZag7CJwlbArLzFTJqz5xUAL "HTTP/1.1 200 OK"
+2024-08-29 16:20:24 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs/run_tZag7CJwlbArLzFTJqz5xUAL "HTTP/1.1 200 OK"
+2024-08-29 16:20:26 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs/run_tZag7CJwlbArLzFTJqz5xUAL "HTTP/1.1 200 OK"
+2024-08-29 16:20:27 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs/run_tZag7CJwlbArLzFTJqz5xUAL "HTTP/1.1 200 OK"
+2024-08-29 16:20:29 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/runs/run_tZag7CJwlbArLzFTJqz5xUAL "HTTP/1.1 200 OK"
+2024-08-29 16:20:29 - HTTP Request: GET https://api.openai.com/v1/threads/thread_XWbM9XEe3mq5AWOiFptHSjYe/messages "HTTP/1.1 200 OK"
+2024-08-29 16:20:29 - User: Business Plan Query: Maximisation des Profits, développer la grille en interne
+2024-08-29 16:20:29 - Assistant: None
+2024-08-29 16:26:42 - User: assistant
+2024-08-29 16:26:42 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-29 16:28:54 - User: assistant
+2024-08-29 16:28:54 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-29 16:29:41 - User: assistant
+2024-08-29 16:29:41 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-30 12:13:25 - User: assistant
+2024-08-30 12:13:25 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-30 12:26:18 - User: assistant
+2024-08-30 12:26:18 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-30 12:29:41 - User: assistant
+2024-08-30 12:29:41 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-30 12:29:42 - User: assistant
+2024-08-30 12:29:42 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-30 12:30:19 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-08-30 12:30:20 - HTTP Request: POST https://api.openai.com/v1/threads/thread_qcR2UFI5u9Xy9lp6zl7MtX3P/messages "HTTP/1.1 200 OK"
+2024-08-30 12:30:21 - HTTP Request: POST https://api.openai.com/v1/threads/thread_qcR2UFI5u9Xy9lp6zl7MtX3P/runs "HTTP/1.1 200 OK"
+2024-08-30 12:30:22 - HTTP Request: GET https://api.openai.com/v1/threads/thread_qcR2UFI5u9Xy9lp6zl7MtX3P/runs/run_JyHHFMG6sQs4st3ET96j8qTu "HTTP/1.1 200 OK"
+2024-08-30 12:30:23 - HTTP Request: GET https://api.openai.com/v1/threads/thread_qcR2UFI5u9Xy9lp6zl7MtX3P/runs/run_JyHHFMG6sQs4st3ET96j8qTu "HTTP/1.1 200 OK"
+2024-08-30 12:30:25 - HTTP Request: GET https://api.openai.com/v1/threads/thread_qcR2UFI5u9Xy9lp6zl7MtX3P/runs/run_JyHHFMG6sQs4st3ET96j8qTu "HTTP/1.1 200 OK"
+2024-08-30 12:30:26 - HTTP Request: GET https://api.openai.com/v1/threads/thread_qcR2UFI5u9Xy9lp6zl7MtX3P/runs/run_JyHHFMG6sQs4st3ET96j8qTu "HTTP/1.1 200 OK"
+2024-08-30 12:30:27 - HTTP Request: GET https://api.openai.com/v1/threads/thread_qcR2UFI5u9Xy9lp6zl7MtX3P/runs/run_JyHHFMG6sQs4st3ET96j8qTu "HTTP/1.1 200 OK"
+2024-08-30 12:30:29 - HTTP Request: GET https://api.openai.com/v1/threads/thread_qcR2UFI5u9Xy9lp6zl7MtX3P/runs/run_JyHHFMG6sQs4st3ET96j8qTu "HTTP/1.1 200 OK"
+2024-08-30 12:30:29 - HTTP Request: GET https://api.openai.com/v1/threads/thread_qcR2UFI5u9Xy9lp6zl7MtX3P/messages "HTTP/1.1 200 OK"
+2024-08-30 12:30:29 - User: 
+2024-08-30 12:30:29 - Assistant: Data availability is a critical aspect of the scorecard development process. It involves ensuring that there is sufficient high-quality data to develop reliable and effective scorecards. Here are some key points regarding data availability from the provided document:
+
+1. **Quality and Quantity**: Reliable and clean data is essential for scorecard development. The data should meet the requirements of statistical significance and randomness. Typically, for application scorecard development, there should be approximately 2,000 "bad" accounts and 2,000 "good" accounts that can be randomly selected.
+
+2. **Internal and External Data**: The project team must determine whether the internal data intended for scorecard development is reliable. If internal data is insufficient or unreliable, external data sources such as credit bureaus, central claims repositories, and geodemographic data providers may be used to supplement the internal data.
+
+3. **Data Gathering**: Data must be gathered in a database format to define project parameters. This includes collecting data items such as account/identification numbers, dates opened or applied, arrears/claims history, accept/reject indicators, product/channel identifiers, and current account status.
+
+4. **Exclusions**: Certain types of accounts, such as those with abnormal performance (e.g., frauds) or those adjudicated using non-score-dependent criteria, should be excluded from the development sample to ensure the data represents the intended customer base.
+
+5. **Future Availability**: It is important to ensure that any data item being considered for scorecard development will continue to be collected in the future. This helps maintain the relevance and accuracy of the scorecard over time.
+
+6. **Data Imputation**: Missing values in the data can be handled in several ways, including excluding records with missing values, treating missing values as a separate attribute, or imputing missing values using statistical techniques.
+
+These points highlight the importance of having a robust data collection and validation process to ensure the success of scorecard development projects.
+
+2024-08-30 12:31:27 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-08-30 12:31:27 - HTTP Request: POST https://api.openai.com/v1/threads/thread_tBFbXEfnjgcrREfxGkWsOQfE/messages "HTTP/1.1 200 OK"
+2024-08-30 12:31:27 - HTTP Request: POST https://api.openai.com/v1/threads/thread_tBFbXEfnjgcrREfxGkWsOQfE/runs "HTTP/1.1 200 OK"
+2024-08-30 12:31:29 - HTTP Request: GET https://api.openai.com/v1/threads/thread_tBFbXEfnjgcrREfxGkWsOQfE/runs/run_APWLn8Gnx9nO4MakOOK9FoHq "HTTP/1.1 200 OK"
+2024-08-30 12:31:30 - HTTP Request: GET https://api.openai.com/v1/threads/thread_tBFbXEfnjgcrREfxGkWsOQfE/runs/run_APWLn8Gnx9nO4MakOOK9FoHq "HTTP/1.1 200 OK"
+2024-08-30 12:31:31 - HTTP Request: GET https://api.openai.com/v1/threads/thread_tBFbXEfnjgcrREfxGkWsOQfE/runs/run_APWLn8Gnx9nO4MakOOK9FoHq "HTTP/1.1 200 OK"
+2024-08-30 12:31:36 - HTTP Request: GET https://api.openai.com/v1/threads/thread_tBFbXEfnjgcrREfxGkWsOQfE/runs/run_APWLn8Gnx9nO4MakOOK9FoHq "HTTP/1.1 200 OK"
+2024-08-30 12:31:37 - HTTP Request: GET https://api.openai.com/v1/threads/thread_tBFbXEfnjgcrREfxGkWsOQfE/runs/run_APWLn8Gnx9nO4MakOOK9FoHq "HTTP/1.1 200 OK"
+2024-08-30 12:31:37 - HTTP Request: GET https://api.openai.com/v1/threads/thread_tBFbXEfnjgcrREfxGkWsOQfE/messages "HTTP/1.1 200 OK"
+2024-08-30 12:31:37 - User: 
+2024-08-30 12:31:37 - Assistant: Data availability is a critical aspect of the scorecard development process. It involves ensuring that there is sufficient, reliable, and clean data to proceed with the development of scorecards. Here are some key points regarding data availability:
+
+1. **Quality and Quantity**: Reliable and clean data is essential for scorecard development. The data should meet the requirements of statistical significance and randomness. Typically, for application scorecard development, approximately 2,000 "bad" accounts and 2,000 "good" accounts are needed. For behavior scorecards, similar numbers are required from accounts that were current at a given point in time.
+
+2. **Internal and External Data**: The project team must determine whether the internal data intended for scorecard development is reliable. If internal data is insufficient or unreliable, external data from sources such as credit bureaus, central claims repositories, and geodemographic data providers may be used. The organization may need to purchase data retroactively if it is not available electronically.
+
+3. **Data Gathering for Project Parameters**: Data must be gathered in a database format to define project parameters. This includes determining the definitions of "good" and "bad," establishing performance and sample windows, and defining data exclusions. Data items usually collected include account/identification number, date opened or applied, arrears/claims history, accept/reject indicator, product/channel identifiers, and current account status.
+
+4. **Data Review and Project Parameters**: This stage addresses data availability in the contexts of quality and quantity. It is designed to determine whether scorecard development is feasible and to set high-level parameters for the project, such as exclusions, target definition, sample window, and performance window.
+
+By ensuring that both the quality and quantity of internal and external data can be obtained, the initial data gathering for project parameters definition can begin.
+
+2024-08-30 12:31:49 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-08-30 12:31:49 - HTTP Request: POST https://api.openai.com/v1/threads/thread_Jdn59YaoGz0T7tZwOjMzVXty/messages "HTTP/1.1 200 OK"
+2024-08-30 12:31:50 - HTTP Request: POST https://api.openai.com/v1/threads/thread_Jdn59YaoGz0T7tZwOjMzVXty/runs "HTTP/1.1 200 OK"
+2024-08-30 12:31:51 - HTTP Request: GET https://api.openai.com/v1/threads/thread_Jdn59YaoGz0T7tZwOjMzVXty/runs/run_4rS1eYaOAsHc3PqnCRrxd677 "HTTP/1.1 200 OK"
+2024-08-30 12:31:52 - HTTP Request: GET https://api.openai.com/v1/threads/thread_Jdn59YaoGz0T7tZwOjMzVXty/runs/run_4rS1eYaOAsHc3PqnCRrxd677 "HTTP/1.1 200 OK"
+2024-08-30 12:31:54 - HTTP Request: GET https://api.openai.com/v1/threads/thread_Jdn59YaoGz0T7tZwOjMzVXty/runs/run_4rS1eYaOAsHc3PqnCRrxd677 "HTTP/1.1 200 OK"
+2024-08-30 12:31:55 - HTTP Request: GET https://api.openai.com/v1/threads/thread_Jdn59YaoGz0T7tZwOjMzVXty/runs/run_4rS1eYaOAsHc3PqnCRrxd677 "HTTP/1.1 200 OK"
+2024-08-30 12:31:56 - HTTP Request: GET https://api.openai.com/v1/threads/thread_Jdn59YaoGz0T7tZwOjMzVXty/runs/run_4rS1eYaOAsHc3PqnCRrxd677 "HTTP/1.1 200 OK"
+2024-08-30 12:31:58 - HTTP Request: GET https://api.openai.com/v1/threads/thread_Jdn59YaoGz0T7tZwOjMzVXty/runs/run_4rS1eYaOAsHc3PqnCRrxd677 "HTTP/1.1 200 OK"
+2024-08-30 12:31:59 - HTTP Request: GET https://api.openai.com/v1/threads/thread_Jdn59YaoGz0T7tZwOjMzVXty/runs/run_4rS1eYaOAsHc3PqnCRrxd677 "HTTP/1.1 200 OK"
+2024-08-30 12:31:59 - HTTP Request: GET https://api.openai.com/v1/threads/thread_Jdn59YaoGz0T7tZwOjMzVXty/messages "HTTP/1.1 200 OK"
+2024-08-30 12:31:59 - User: 
+2024-08-30 12:31:59 - Assistant: The document outlines the importance of data availability and quality in the development of credit risk scorecards. Here are the key points related to data availability:
+
+1. **Data Quality and Quantity**: Reliable and clean data is essential for scorecard development. The data should meet the requirements of statistical significance and randomness. For application scorecards, approximately 2,000 "bad" accounts and 2,000 "good" accounts are needed. For behavior scorecards, similar numbers are required from accounts that were current at a given point in time.
+
+2. **Internal and External Data**: The project team must ensure that internal data is reliable and has not been tampered with. If internal data is insufficient, external data from sources like credit bureaus or geodemographic data providers may be used. The organization may need to key in data from paper-based formats or purchase data retroactively.
+
+3. **Data Gathering for Project Parameters**: Data must be gathered in a database format to define project parameters. This includes determining definitions of "good" and "bad," establishing performance and sample windows, and defining data exclusions.
+
+4. **Exclusions and Segmentation**: Certain types of accounts, such as those with abnormal performance or adjudicated using non-score-dependent criteria, should be excluded from the development sample. Segmentation can be based on experience or statistical methods to improve the accuracy of the scorecards.
+
+5. **Handling Missing Values and Outliers**: Missing values can be treated as separate attributes and included in the regression analysis. Outliers should be investigated and may be excluded if they are found to be erroneous.
+
+These steps ensure that the data used for scorecard development is robust, reliable, and suitable for creating accurate predictive models.
+
+2024-08-30 12:33:21 - User: assistant
+2024-08-30 12:33:21 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-30 12:37:24 - User: assistant
+2024-08-30 12:37:24 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-30 12:37:57 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-08-30 12:37:58 - HTTP Request: POST https://api.openai.com/v1/threads/thread_197Z5Y137ecJC1PwQpR68HgN/messages "HTTP/1.1 200 OK"
+2024-08-30 12:37:58 - HTTP Request: POST https://api.openai.com/v1/threads/thread_197Z5Y137ecJC1PwQpR68HgN/runs "HTTP/1.1 200 OK"
+2024-08-30 12:38:00 - HTTP Request: GET https://api.openai.com/v1/threads/thread_197Z5Y137ecJC1PwQpR68HgN/runs/run_VtlXjChDLrgiJHCZvJCk5Zaa "HTTP/1.1 200 OK"
+2024-08-30 12:38:01 - HTTP Request: GET https://api.openai.com/v1/threads/thread_197Z5Y137ecJC1PwQpR68HgN/runs/run_VtlXjChDLrgiJHCZvJCk5Zaa "HTTP/1.1 200 OK"
+2024-08-30 12:38:02 - HTTP Request: GET https://api.openai.com/v1/threads/thread_197Z5Y137ecJC1PwQpR68HgN/runs/run_VtlXjChDLrgiJHCZvJCk5Zaa "HTTP/1.1 200 OK"
+2024-08-30 12:38:04 - HTTP Request: GET https://api.openai.com/v1/threads/thread_197Z5Y137ecJC1PwQpR68HgN/runs/run_VtlXjChDLrgiJHCZvJCk5Zaa "HTTP/1.1 200 OK"
+2024-08-30 12:38:05 - HTTP Request: GET https://api.openai.com/v1/threads/thread_197Z5Y137ecJC1PwQpR68HgN/runs/run_VtlXjChDLrgiJHCZvJCk5Zaa "HTTP/1.1 200 OK"
+2024-08-30 12:38:06 - HTTP Request: GET https://api.openai.com/v1/threads/thread_197Z5Y137ecJC1PwQpR68HgN/runs/run_VtlXjChDLrgiJHCZvJCk5Zaa "HTTP/1.1 200 OK"
+2024-08-30 12:38:07 - HTTP Request: GET https://api.openai.com/v1/threads/thread_197Z5Y137ecJC1PwQpR68HgN/messages "HTTP/1.1 200 OK"
+2024-08-30 12:38:07 - User: Nom de l'emprunteur, Montant du prêt, Durée du prêt, Score de crédit
+2024-08-30 12:38:07 - Assistant: The document "Credit Risk Scorecards.pdf" contains relevant information on the availability of data such as the name of the borrower, loan amount, loan duration, and credit score. Here are the details:
+
+1. **Nom de l'emprunteur (Name of the borrower)**:
+   - The document discusses the importance of demographic data, which can include the name of the borrower as part of the application data collected for scorecard development.
+
+2. **Montant du prêt (Loan amount)**:
+   - The loan amount is a critical piece of data used in scorecard development and is often included in the financial information collected from applicants.
+
+3. **Durée du prêt (Loan duration)**:
+   - Loan duration is another important characteristic that can be used in the development of scorecards. It is part of the financial data that helps in assessing the risk profile of the borrower.
+
+4. **Score de crédit (Credit score)**:
+   - Credit scores are central to the scorecard development process. The document extensively discusses how credit scores are used to predict the likelihood of default and other negative behaviors.
+
+These elements are part of the broader data collection and analysis process used to develop predictive models for assessing credit risk. The document provides a comprehensive overview of how these data points are utilized in creating effective scorecards for credit risk management.
+
+2024-08-30 12:41:56 - User: assistant
+2024-08-30 12:41:56 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-30 12:41:57 - User: assistant
+2024-08-30 12:41:57 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-30 12:42:59 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-08-30 12:43:00 - HTTP Request: POST https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/messages "HTTP/1.1 200 OK"
+2024-08-30 12:43:00 - HTTP Request: POST https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/runs "HTTP/1.1 200 OK"
+2024-08-30 12:43:02 - HTTP Request: GET https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/runs/run_RiH6l8TavnHutA5IBnENdGnx "HTTP/1.1 200 OK"
+2024-08-30 12:43:03 - HTTP Request: GET https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/runs/run_RiH6l8TavnHutA5IBnENdGnx "HTTP/1.1 200 OK"
+2024-08-30 12:43:04 - HTTP Request: GET https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/runs/run_RiH6l8TavnHutA5IBnENdGnx "HTTP/1.1 200 OK"
+2024-08-30 12:43:06 - HTTP Request: GET https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/runs/run_RiH6l8TavnHutA5IBnENdGnx "HTTP/1.1 200 OK"
+2024-08-30 12:43:07 - HTTP Request: GET https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/runs/run_RiH6l8TavnHutA5IBnENdGnx "HTTP/1.1 200 OK"
+2024-08-30 12:43:08 - HTTP Request: GET https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/runs/run_RiH6l8TavnHutA5IBnENdGnx "HTTP/1.1 200 OK"
+2024-08-30 12:43:10 - HTTP Request: GET https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/runs/run_RiH6l8TavnHutA5IBnENdGnx "HTTP/1.1 200 OK"
+2024-08-30 12:43:11 - HTTP Request: GET https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/runs/run_RiH6l8TavnHutA5IBnENdGnx "HTTP/1.1 200 OK"
+2024-08-30 12:43:12 - HTTP Request: GET https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/runs/run_RiH6l8TavnHutA5IBnENdGnx "HTTP/1.1 200 OK"
+2024-08-30 12:43:14 - HTTP Request: GET https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/runs/run_RiH6l8TavnHutA5IBnENdGnx "HTTP/1.1 200 OK"
+2024-08-30 12:43:14 - HTTP Request: GET https://api.openai.com/v1/threads/thread_IhKm5NzW0aDl50lw5eWBBPY5/messages "HTTP/1.1 200 OK"
+2024-08-30 12:43:14 - User: Nom de l'emprunteur, Texte, Nom complet de l'emprunteur
+Montant du prêt, Numérique, Le montant total du prêt
+Durée du prêt, Numérique, La durée du prêt en mois
+Score de crédit, Numérique, Le score de crédit de l'emprunteur
+
+2024-08-30 12:43:14 - Assistant: Based on the document "Credit Risk Scorecards.pdf," here is the data availability and description for each field:
+
+1. **Nom de l'emprunteur (Borrower's Name)**
+   - **Type:** Text
+   - **Description:** The full name of the borrower.
+
+2. **Montant du prêt (Loan Amount)**
+   - **Type:** Numeric
+   - **Description:** The total amount of the loan.
+
+3. **Durée du prêt (Loan Duration)**
+   - **Type:** Numeric
+   - **Description:** The duration of the loan in months.
+
+4. **Score de crédit (Credit Score)**
+   - **Type:** Numeric
+   - **Description:** The credit score of the borrower.
+
+These fields are essential for the development and analysis of credit risk scorecards, which help in predicting the likelihood of a borrower defaulting on a loan.
+
+2024-08-30 12:45:36 - User: assistant
+2024-08-30 12:45:36 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-30 15:27:33 - User: assistant
+2024-08-30 15:27:33 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-08-30 15:30:54 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-08-30 15:30:58 - HTTP Request: POST https://api.openai.com/v1/threads/thread_SeroSsLGbLfeQuUr9f8oGQ0Z/messages "HTTP/1.1 200 OK"
+2024-08-30 15:30:59 - HTTP Request: POST https://api.openai.com/v1/threads/thread_SeroSsLGbLfeQuUr9f8oGQ0Z/runs "HTTP/1.1 200 OK"
+2024-08-30 15:31:00 - HTTP Request: GET https://api.openai.com/v1/threads/thread_SeroSsLGbLfeQuUr9f8oGQ0Z/runs/run_s5s0vci03D8wPXye0ZQNnDN1 "HTTP/1.1 200 OK"
+2024-08-30 15:31:01 - HTTP Request: GET https://api.openai.com/v1/threads/thread_SeroSsLGbLfeQuUr9f8oGQ0Z/runs/run_s5s0vci03D8wPXye0ZQNnDN1 "HTTP/1.1 200 OK"
+2024-08-30 15:31:03 - HTTP Request: GET https://api.openai.com/v1/threads/thread_SeroSsLGbLfeQuUr9f8oGQ0Z/runs/run_s5s0vci03D8wPXye0ZQNnDN1 "HTTP/1.1 200 OK"
+2024-08-30 15:31:04 - HTTP Request: GET https://api.openai.com/v1/threads/thread_SeroSsLGbLfeQuUr9f8oGQ0Z/runs/run_s5s0vci03D8wPXye0ZQNnDN1 "HTTP/1.1 200 OK"
+2024-08-30 15:31:05 - HTTP Request: GET https://api.openai.com/v1/threads/thread_SeroSsLGbLfeQuUr9f8oGQ0Z/runs/run_s5s0vci03D8wPXye0ZQNnDN1 "HTTP/1.1 200 OK"
+2024-08-30 15:31:06 - HTTP Request: GET https://api.openai.com/v1/threads/thread_SeroSsLGbLfeQuUr9f8oGQ0Z/messages "HTTP/1.1 200 OK"
+2024-08-30 15:31:06 - User: Nom de l'emprunteur, Texte, Nom complet de l'emprunteur
+Montant du prêt, Numérique, Le montant total du prêt
+Durée du prêt, Numérique, La durée du prêt en mois
+Score de crédit, Numérique, Le score de crédit de l'emprunteur
+
+
+2024-08-30 15:31:06 - Assistant: The document "Credit Risk Scorecards.pdf" provides detailed information on the data items required for credit risk scorecard development. Here are the relevant data items and their descriptions:
+
+1. **Nom de l'emprunteur (Borrower's Name)**: This is a textual data field that captures the full name of the borrower.
+2. **Montant du prêt (Loan Amount)**: This is a numerical data field that captures the total amount of the loan.
+3. **Durée du prêt (Loan Duration)**: This is a numerical data field that captures the duration of the loan in months.
+4. **Score de crédit (Credit Score)**: This is a numerical data field that captures the credit score of the borrower.
+
+These data items are essential for developing a comprehensive risk profile of the borrower, which is crucial for the predictive modeling process used in credit risk scorecards.
+
+2024-09-05 23:18:47 - User: assistant
+2024-09-05 23:18:47 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-05 23:20:11 - User: assistant
+2024-09-05 23:20:11 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-05 23:20:26 - User: user
+2024-09-05 23:20:26 - Assistant: Développer un score d'octroi
+2024-09-05 23:20:30 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-09-05 23:20:30 - HTTP Request: POST https://api.openai.com/v1/threads/thread_vOSWPP28OZJLfxTOYDs7cCiB/messages "HTTP/1.1 200 OK"
+2024-09-05 23:20:32 - HTTP Request: POST https://api.openai.com/v1/threads/thread_vOSWPP28OZJLfxTOYDs7cCiB/runs "HTTP/1.1 200 OK"
+2024-09-05 23:20:34 - HTTP Request: GET https://api.openai.com/v1/threads/thread_vOSWPP28OZJLfxTOYDs7cCiB/runs/run_v5QMCWxuSmAWKXs1W1UWeKtl "HTTP/1.1 200 OK"
+2024-09-05 23:20:35 - HTTP Request: GET https://api.openai.com/v1/threads/thread_vOSWPP28OZJLfxTOYDs7cCiB/runs/run_v5QMCWxuSmAWKXs1W1UWeKtl "HTTP/1.1 200 OK"
+2024-09-05 23:20:37 - HTTP Request: GET https://api.openai.com/v1/threads/thread_vOSWPP28OZJLfxTOYDs7cCiB/runs/run_v5QMCWxuSmAWKXs1W1UWeKtl "HTTP/1.1 200 OK"
+2024-09-05 23:20:49 - User: user
+2024-09-05 23:20:49 - Assistant: Développer un modèle de Rating des PME/GE
+2024-09-05 23:20:53 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-09-05 23:20:53 - HTTP Request: POST https://api.openai.com/v1/threads/thread_fEfk6Z5t7VbupLPFbgePbMWn/messages "HTTP/1.1 200 OK"
+2024-09-05 23:20:54 - HTTP Request: POST https://api.openai.com/v1/threads/thread_fEfk6Z5t7VbupLPFbgePbMWn/runs "HTTP/1.1 200 OK"
+2024-09-05 23:20:56 - HTTP Request: GET https://api.openai.com/v1/threads/thread_fEfk6Z5t7VbupLPFbgePbMWn/runs/run_HuADhFRla6teRXQ201MsVVOJ "HTTP/1.1 200 OK"
+2024-09-05 23:20:58 - HTTP Request: GET https://api.openai.com/v1/threads/thread_fEfk6Z5t7VbupLPFbgePbMWn/runs/run_HuADhFRla6teRXQ201MsVVOJ "HTTP/1.1 200 OK"
+2024-09-05 23:21:00 - HTTP Request: GET https://api.openai.com/v1/threads/thread_fEfk6Z5t7VbupLPFbgePbMWn/runs/run_HuADhFRla6teRXQ201MsVVOJ "HTTP/1.1 200 OK"
+2024-09-05 23:21:01 - HTTP Request: GET https://api.openai.com/v1/threads/thread_fEfk6Z5t7VbupLPFbgePbMWn/runs/run_HuADhFRla6teRXQ201MsVVOJ "HTTP/1.1 200 OK"
+2024-09-05 23:21:05 - User: user
+2024-09-05 23:21:05 - Assistant: hello 
+2024-09-05 23:21:07 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-09-05 23:21:08 - HTTP Request: POST https://api.openai.com/v1/threads/thread_pxJZYC9zfvIaSoKRdXTsp2uR/messages "HTTP/1.1 200 OK"
+2024-09-05 23:21:09 - HTTP Request: POST https://api.openai.com/v1/threads/thread_pxJZYC9zfvIaSoKRdXTsp2uR/runs "HTTP/1.1 200 OK"
+2024-09-05 23:21:10 - HTTP Request: GET https://api.openai.com/v1/threads/thread_pxJZYC9zfvIaSoKRdXTsp2uR/runs/run_Ofkrb5U9FwhJJYPO1kCi2tSa "HTTP/1.1 200 OK"
+2024-09-05 23:21:12 - HTTP Request: GET https://api.openai.com/v1/threads/thread_pxJZYC9zfvIaSoKRdXTsp2uR/runs/run_Ofkrb5U9FwhJJYPO1kCi2tSa "HTTP/1.1 200 OK"
+2024-09-05 23:21:13 - HTTP Request: GET https://api.openai.com/v1/threads/thread_pxJZYC9zfvIaSoKRdXTsp2uR/runs/run_Ofkrb5U9FwhJJYPO1kCi2tSa "HTTP/1.1 200 OK"
+2024-09-05 23:21:15 - HTTP Request: GET https://api.openai.com/v1/threads/thread_pxJZYC9zfvIaSoKRdXTsp2uR/runs/run_Ofkrb5U9FwhJJYPO1kCi2tSa "HTTP/1.1 200 OK"
+2024-09-05 23:21:16 - HTTP Request: GET https://api.openai.com/v1/threads/thread_pxJZYC9zfvIaSoKRdXTsp2uR/runs/run_Ofkrb5U9FwhJJYPO1kCi2tSa "HTTP/1.1 200 OK"
+2024-09-05 23:21:18 - HTTP Request: GET https://api.openai.com/v1/threads/thread_pxJZYC9zfvIaSoKRdXTsp2uR/runs/run_Ofkrb5U9FwhJJYPO1kCi2tSa "HTTP/1.1 200 OK"
+2024-09-05 23:21:19 - HTTP Request: GET https://api.openai.com/v1/threads/thread_pxJZYC9zfvIaSoKRdXTsp2uR/runs/run_Ofkrb5U9FwhJJYPO1kCi2tSa "HTTP/1.1 200 OK"
+2024-09-05 23:21:21 - HTTP Request: GET https://api.openai.com/v1/threads/thread_pxJZYC9zfvIaSoKRdXTsp2uR/runs/run_Ofkrb5U9FwhJJYPO1kCi2tSa "HTTP/1.1 200 OK"
+2024-09-05 23:21:24 - HTTP Request: GET https://api.openai.com/v1/threads/thread_pxJZYC9zfvIaSoKRdXTsp2uR/runs/run_Ofkrb5U9FwhJJYPO1kCi2tSa "HTTP/1.1 200 OK"
+2024-09-14 17:07:57 - User: assistant
+2024-09-14 17:07:57 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-14 17:17:50 - User: assistant
+2024-09-14 17:17:50 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-14 17:35:18 - User: assistant
+2024-09-14 17:35:18 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-14 17:35:20 - User: user
+2024-09-14 17:35:20 - Assistant: Développer un score d'octroi
+2024-09-14 17:35:23 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-09-14 17:35:24 - HTTP Request: POST https://api.openai.com/v1/threads/thread_3FRFywUpLf32KEybIyU823vX/messages "HTTP/1.1 200 OK"
+2024-09-14 17:35:25 - HTTP Request: POST https://api.openai.com/v1/threads/thread_3FRFywUpLf32KEybIyU823vX/runs "HTTP/1.1 200 OK"
+2024-09-14 17:35:26 - HTTP Request: GET https://api.openai.com/v1/threads/thread_3FRFywUpLf32KEybIyU823vX/runs/run_Qt0mZdUcpq98fd3sFqf8jNDy "HTTP/1.1 200 OK"
+2024-09-14 17:35:28 - HTTP Request: GET https://api.openai.com/v1/threads/thread_3FRFywUpLf32KEybIyU823vX/runs/run_Qt0mZdUcpq98fd3sFqf8jNDy "HTTP/1.1 200 OK"
+2024-09-14 17:35:29 - HTTP Request: GET https://api.openai.com/v1/threads/thread_3FRFywUpLf32KEybIyU823vX/runs/run_Qt0mZdUcpq98fd3sFqf8jNDy "HTTP/1.1 200 OK"
+2024-09-14 17:35:30 - HTTP Request: GET https://api.openai.com/v1/threads/thread_3FRFywUpLf32KEybIyU823vX/runs/run_Qt0mZdUcpq98fd3sFqf8jNDy "HTTP/1.1 200 OK"
+2024-09-14 17:35:33 - HTTP Request: GET https://api.openai.com/v1/threads/thread_3FRFywUpLf32KEybIyU823vX/runs/run_Qt0mZdUcpq98fd3sFqf8jNDy "HTTP/1.1 200 OK"
+2024-09-14 17:37:02 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-09-14 17:37:03 - HTTP Request: POST https://api.openai.com/v1/threads/thread_DR409OhzlCY19AdeLIx8VmMR/messages "HTTP/1.1 200 OK"
+2024-09-14 17:37:03 - HTTP Request: POST https://api.openai.com/v1/threads/thread_DR409OhzlCY19AdeLIx8VmMR/runs "HTTP/1.1 200 OK"
+2024-09-14 17:37:06 - HTTP Request: GET https://api.openai.com/v1/threads/thread_DR409OhzlCY19AdeLIx8VmMR/runs/run_jkRKBPaETPGBcjMJe6p335yU "HTTP/1.1 200 OK"
+2024-09-14 17:37:07 - HTTP Request: GET https://api.openai.com/v1/threads/thread_DR409OhzlCY19AdeLIx8VmMR/runs/run_jkRKBPaETPGBcjMJe6p335yU "HTTP/1.1 200 OK"
+2024-09-14 17:37:08 - HTTP Request: GET https://api.openai.com/v1/threads/thread_DR409OhzlCY19AdeLIx8VmMR/runs/run_jkRKBPaETPGBcjMJe6p335yU "HTTP/1.1 200 OK"
+2024-09-23 13:17:39 - User: assistant
+2024-09-23 13:17:39 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 13:19:08 - User: user
+2024-09-23 13:19:08 - Assistant: s'initier aux étapes d'un projet de modélisation de grille de scores
+2024-09-23 13:19:17 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-09-23 13:19:17 - HTTP Request: POST https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/messages "HTTP/1.1 200 OK"
+2024-09-23 13:19:19 - HTTP Request: POST https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs "HTTP/1.1 200 OK"
+2024-09-23 13:19:21 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs/run_F748Lbc11Tfa5uwJKvZ4WFOw "HTTP/1.1 200 OK"
+2024-09-23 13:19:22 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs/run_F748Lbc11Tfa5uwJKvZ4WFOw "HTTP/1.1 200 OK"
+2024-09-23 13:19:24 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs/run_F748Lbc11Tfa5uwJKvZ4WFOw "HTTP/1.1 200 OK"
+2024-09-23 13:19:25 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs/run_F748Lbc11Tfa5uwJKvZ4WFOw "HTTP/1.1 200 OK"
+2024-09-23 13:19:27 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs/run_F748Lbc11Tfa5uwJKvZ4WFOw "HTTP/1.1 200 OK"
+2024-09-23 13:19:28 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs/run_F748Lbc11Tfa5uwJKvZ4WFOw "HTTP/1.1 200 OK"
+2024-09-23 13:19:29 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs/run_F748Lbc11Tfa5uwJKvZ4WFOw "HTTP/1.1 200 OK"
+2024-09-23 13:19:31 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs/run_F748Lbc11Tfa5uwJKvZ4WFOw "HTTP/1.1 200 OK"
+2024-09-23 13:19:32 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs/run_F748Lbc11Tfa5uwJKvZ4WFOw "HTTP/1.1 200 OK"
+2024-09-23 13:19:33 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs/run_F748Lbc11Tfa5uwJKvZ4WFOw "HTTP/1.1 200 OK"
+2024-09-23 13:19:35 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs/run_F748Lbc11Tfa5uwJKvZ4WFOw "HTTP/1.1 200 OK"
+2024-09-23 13:19:46 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/runs/run_F748Lbc11Tfa5uwJKvZ4WFOw "HTTP/1.1 200 OK"
+2024-09-23 13:19:47 - HTTP Request: GET https://api.openai.com/v1/threads/thread_eggYbCbNYEJef6t4bINGim2k/messages "HTTP/1.1 200 OK"
+2024-09-23 13:53:30 - User: assistant
+2024-09-23 13:53:30 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 13:54:09 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-09-23 13:54:09 - HTTP Request: POST https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/messages "HTTP/1.1 200 OK"
+2024-09-23 13:54:10 - HTTP Request: POST https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs "HTTP/1.1 200 OK"
+2024-09-23 13:54:12 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:13 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:15 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:16 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:18 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:20 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:21 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:22 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:24 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:25 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:28 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:30 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:32 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:33 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:34 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:36 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:37 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/runs/run_hnqX7FnhsgDqqwD6mHRPrWsw "HTTP/1.1 200 OK"
+2024-09-23 13:54:38 - HTTP Request: GET https://api.openai.com/v1/threads/thread_JR29vJyahfRl2bzBzpIkX9KJ/messages "HTTP/1.1 200 OK"
+2024-09-23 13:54:38 - User: 
+2024-09-23 13:54:38 - Assistant: The document provides detailed information on data availability and quality in the context of developing credit risk scorecards. Here are the key points:
+
+1. **Data Availability and Quality**:
+   - Reliable and clean data is essential for scorecard development. This includes having a minimum acceptable number of "good" and "bad" accounts.
+   - The data should fulfill the requirements of statistical significance and randomness. For application scorecards, approximately 2,000 "bad" accounts and 2,000 "good" accounts are needed. For behavior scorecards, similar numbers are required from accounts that were current at a given point in time.
+   - Internal data should be evaluated for reliability. If internal data is unreliable, scorecards can be developed using external data sources such as credit bureaus.
+   - External data needs must be evaluated, quantified, and defined. This includes data from credit bureaus, central claims repositories, and geodemographic data providers.
+
+2. **Data Gathering for Definition of Project Parameters**:
+   - Data must be gathered in a database format to define project parameters such as definitions of "good" and "bad," performance and sample windows, and data exclusions.
+   - Data items usually collected include account/identification number, date opened or applied, arrears/claims history, accept/reject indicator, product/channel identifiers, and current account status.
+
+3. **Exclusions**:
+   - Certain types of accounts, such as those with abnormal performance (e.g., frauds) or adjudicated using non-score-dependent criteria, should be excluded from the development sample.
+
+4. **Future Availability**:
+   - Ensure that any data item being considered for scorecard development will be collected in the future.
+
+5. **Changes in Competitive Environment**:
+   - Characteristics that may not be strong predictors today might become significant in the future due to industry trends.
+
+These points highlight the importance of having sufficient, reliable, and clean data for the development of effective credit risk scorecards.
+
+2024-09-23 13:57:06 - User: assistant
+2024-09-23 13:57:06 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 13:57:07 - User: assistant
+2024-09-23 13:57:07 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 13:57:45 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-09-23 13:57:45 - HTTP Request: POST https://api.openai.com/v1/threads/thread_ZwGa35CU8zu1xXnQAAir33un/messages "HTTP/1.1 200 OK"
+2024-09-23 13:57:46 - HTTP Request: POST https://api.openai.com/v1/threads/thread_ZwGa35CU8zu1xXnQAAir33un/runs "HTTP/1.1 200 OK"
+2024-09-23 13:57:48 - HTTP Request: GET https://api.openai.com/v1/threads/thread_ZwGa35CU8zu1xXnQAAir33un/runs/run_VaaEZy8D8CUTpRt4sR2Luy5d "HTTP/1.1 200 OK"
+2024-09-23 13:57:50 - HTTP Request: GET https://api.openai.com/v1/threads/thread_ZwGa35CU8zu1xXnQAAir33un/runs/run_VaaEZy8D8CUTpRt4sR2Luy5d "HTTP/1.1 200 OK"
+2024-09-23 13:57:51 - HTTP Request: GET https://api.openai.com/v1/threads/thread_ZwGa35CU8zu1xXnQAAir33un/runs/run_VaaEZy8D8CUTpRt4sR2Luy5d "HTTP/1.1 200 OK"
+2024-09-23 13:57:53 - HTTP Request: GET https://api.openai.com/v1/threads/thread_ZwGa35CU8zu1xXnQAAir33un/runs/run_VaaEZy8D8CUTpRt4sR2Luy5d "HTTP/1.1 200 OK"
+2024-09-23 13:57:53 - HTTP Request: GET https://api.openai.com/v1/threads/thread_ZwGa35CU8zu1xXnQAAir33un/messages "HTTP/1.1 200 OK"
+2024-09-23 13:57:53 - User: 
+2024-09-23 13:57:53 - Assistant: The document outlines the importance of data availability and quality in the development of credit risk scorecards. Here are the key points related to data availability:
+
+1. **Data Quality and Quantity**: Reliable and clean data is essential for scorecard development. The data should meet the requirements of statistical significance and randomness. For application scorecards, approximately 2,000 "bad" accounts and 2,000 "good" accounts are typically needed.
+
+2. **Internal and External Data**: The project team must evaluate both internal and external data. Internal data should be checked for tampering or unreliability. If internal data is not reliable, external data sources such as credit bureaus can be used.
+
+3. **Data Collection**: Data must be gathered in a database format to define project parameters. This includes collecting data items such as account numbers, application dates, arrears history, and current account status from the previous two to five years.
+
+4. **Exclusions**: Certain types of accounts, such as those with abnormal performance or those adjudicated using non-score-dependent criteria, should be excluded from the development sample.
+
+5. **Future Data Availability**: Ensure that any data item being considered for scorecard development will continue to be collected in the future.
+
+These points emphasize the critical role of data availability and quality in the effective development and implementation of credit risk scorecards.
+
+2024-09-23 14:03:58 - User: assistant
+2024-09-23 14:03:58 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 14:03:59 - User: assistant
+2024-09-23 14:03:59 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 14:06:05 - User: assistant
+2024-09-23 14:06:05 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 14:21:17 - User: assistant
+2024-09-23 14:21:17 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 14:28:32 - User: assistant
+2024-09-23 14:28:32 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 14:29:53 - User: assistant
+2024-09-23 14:29:53 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 14:41:50 - User: assistant
+2024-09-23 14:41:50 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 14:41:51 - User: assistant
+2024-09-23 14:41:51 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 14:54:49 - User: assistant
+2024-09-23 14:54:49 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 14:55:11 - User: assistant
+2024-09-23 14:55:11 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 15:06:38 - User: assistant
+2024-09-23 15:06:38 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 15:07:25 - User: assistant
+2024-09-23 15:07:25 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 15:16:48 - User: assistant
+2024-09-23 15:16:48 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 15:16:53 - User: assistant
+2024-09-23 15:16:53 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 15:16:57 - User: assistant
+2024-09-23 15:16:57 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 15:44:58 - User: assistant
+2024-09-23 15:44:58 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 15:44:59 - User: assistant
+2024-09-23 15:44:59 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 15:57:16 - User: assistant
+2024-09-23 15:57:16 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 16:05:32 - User: assistant
+2024-09-23 16:05:32 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 16:05:33 - User: assistant
+2024-09-23 16:05:33 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 16:08:21 - User: assistant
+2024-09-23 16:08:21 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 16:21:55 - User: assistant
+2024-09-23 16:21:55 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 16:32:15 - User: assistant
+2024-09-23 16:32:15 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 16:44:39 - User: assistant
+2024-09-23 16:44:39 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 16:44:40 - User: assistant
+2024-09-23 16:44:40 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 16:49:46 - User: assistant
+2024-09-23 16:49:46 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 16:52:14 - User: assistant
+2024-09-23 16:52:14 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 16:52:15 - User: assistant
+2024-09-23 16:52:15 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 16:56:35 - User: assistant
+2024-09-23 16:56:35 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 19:25:37 - User: assistant
+2024-09-23 19:25:37 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 19:47:37 - User: assistant
+2024-09-23 19:47:37 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 19:47:39 - User: assistant
+2024-09-23 19:47:39 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 19:47:49 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022150521BD0>: Failed to resolve 'api.openai.com' ([Errno 11001] getaddrinfo failed)")': /v1/chat/completions
+2024-09-23 19:47:49 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022150455D10>: Failed to resolve 'api.openai.com' ([Errno 11001] getaddrinfo failed)")': /v1/chat/completions
+2024-09-23 19:50:57 - User: assistant
+2024-09-23 19:50:57 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 19:51:01 - User: user
+2024-09-23 19:51:01 - Assistant: Développer un score d'octroi
+2024-09-23 19:51:09 - User: user
+2024-09-23 19:51:09 - Assistant: Développer un score de comportement
+2024-09-23 19:51:14 - User: assistant
+2024-09-23 19:51:14 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 19:51:17 - User: user
+2024-09-23 19:51:17 - Assistant: Développer un score de comportement
+2024-09-23 19:52:05 - User: assistant
+2024-09-23 19:52:05 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 19:52:09 - User: user
+2024-09-23 19:52:09 - Assistant: Développer un score de comportement
+2024-09-23 19:54:40 - User: assistant
+2024-09-23 19:54:40 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 19:54:41 - User: assistant
+2024-09-23 19:54:41 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 19:54:44 - User: user
+2024-09-23 19:54:44 - Assistant: Développer un score d'octroi
+2024-09-23 19:56:59 - User: assistant
+2024-09-23 19:56:59 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 19:57:04 - User: user
+2024-09-23 19:57:04 - Assistant: Développer un modèle de Rating des PME/GE
+2024-09-23 20:01:05 - User: assistant
+2024-09-23 20:01:05 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 20:01:08 - User: user
+2024-09-23 20:01:08 - Assistant: Développer un score d'octroi
+2024-09-23 20:01:10 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-09-23 20:01:10 - HTTP Request: POST https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/messages "HTTP/1.1 200 OK"
+2024-09-23 20:01:11 - HTTP Request: POST https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/runs "HTTP/1.1 200 OK"
+2024-09-23 20:01:13 - HTTP Request: GET https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/runs/run_yNqnYXJ7ua0My8xxqSs7KFtq "HTTP/1.1 200 OK"
+2024-09-23 20:01:14 - HTTP Request: GET https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/runs/run_yNqnYXJ7ua0My8xxqSs7KFtq "HTTP/1.1 200 OK"
+2024-09-23 20:01:16 - HTTP Request: GET https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/runs/run_yNqnYXJ7ua0My8xxqSs7KFtq "HTTP/1.1 200 OK"
+2024-09-23 20:01:17 - HTTP Request: GET https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/runs/run_yNqnYXJ7ua0My8xxqSs7KFtq "HTTP/1.1 200 OK"
+2024-09-23 20:01:19 - HTTP Request: GET https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/runs/run_yNqnYXJ7ua0My8xxqSs7KFtq "HTTP/1.1 200 OK"
+2024-09-23 20:01:20 - HTTP Request: GET https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/runs/run_yNqnYXJ7ua0My8xxqSs7KFtq "HTTP/1.1 200 OK"
+2024-09-23 20:01:22 - HTTP Request: GET https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/runs/run_yNqnYXJ7ua0My8xxqSs7KFtq "HTTP/1.1 200 OK"
+2024-09-23 20:01:23 - HTTP Request: GET https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/runs/run_yNqnYXJ7ua0My8xxqSs7KFtq "HTTP/1.1 200 OK"
+2024-09-23 20:01:25 - HTTP Request: GET https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/runs/run_yNqnYXJ7ua0My8xxqSs7KFtq "HTTP/1.1 200 OK"
+2024-09-23 20:01:26 - HTTP Request: GET https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/runs/run_yNqnYXJ7ua0My8xxqSs7KFtq "HTTP/1.1 200 OK"
+2024-09-23 20:01:28 - HTTP Request: GET https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/runs/run_yNqnYXJ7ua0My8xxqSs7KFtq "HTTP/1.1 200 OK"
+2024-09-23 20:01:28 - HTTP Request: GET https://api.openai.com/v1/threads/thread_h0p8OcY4L8henE9EzVhDTBiG/messages "HTTP/1.1 200 OK"
+2024-09-23 20:10:59 - User: assistant
+2024-09-23 20:10:59 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 20:11:02 - User: assistant
+2024-09-23 20:11:02 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 20:14:45 - User: assistant
+2024-09-23 20:14:45 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 20:14:45 - User: assistant
+2024-09-23 20:14:45 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 20:19:00 - User: assistant
+2024-09-23 20:19:00 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 20:21:57 - User: assistant
+2024-09-23 20:21:57 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 20:21:59 - User: assistant
+2024-09-23 20:21:59 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 20:22:00 - User: user
+2024-09-23 20:22:00 - Assistant: Développer un score d'octroi
+2024-09-23 20:22:02 - HTTP Request: POST https://api.openai.com/v1/threads "HTTP/1.1 200 OK"
+2024-09-23 20:22:02 - HTTP Request: POST https://api.openai.com/v1/threads/thread_0hAIZ0QqNeuFREQJJSDOnisB/messages "HTTP/1.1 200 OK"
+2024-09-23 20:22:03 - HTTP Request: POST https://api.openai.com/v1/threads/thread_0hAIZ0QqNeuFREQJJSDOnisB/runs "HTTP/1.1 200 OK"
+2024-09-23 20:22:04 - HTTP Request: GET https://api.openai.com/v1/threads/thread_0hAIZ0QqNeuFREQJJSDOnisB/runs/run_56ZXmZoLMXVCXLkDiGn8307R "HTTP/1.1 200 OK"
+2024-09-23 20:22:06 - HTTP Request: GET https://api.openai.com/v1/threads/thread_0hAIZ0QqNeuFREQJJSDOnisB/runs/run_56ZXmZoLMXVCXLkDiGn8307R "HTTP/1.1 200 OK"
+2024-09-23 20:22:07 - HTTP Request: GET https://api.openai.com/v1/threads/thread_0hAIZ0QqNeuFREQJJSDOnisB/runs/run_56ZXmZoLMXVCXLkDiGn8307R "HTTP/1.1 200 OK"
+2024-09-23 20:22:09 - HTTP Request: GET https://api.openai.com/v1/threads/thread_0hAIZ0QqNeuFREQJJSDOnisB/runs/run_56ZXmZoLMXVCXLkDiGn8307R "HTTP/1.1 200 OK"
+2024-09-23 20:22:10 - HTTP Request: GET https://api.openai.com/v1/threads/thread_0hAIZ0QqNeuFREQJJSDOnisB/runs/run_56ZXmZoLMXVCXLkDiGn8307R "HTTP/1.1 200 OK"
+2024-09-23 20:22:12 - HTTP Request: GET https://api.openai.com/v1/threads/thread_0hAIZ0QqNeuFREQJJSDOnisB/runs/run_56ZXmZoLMXVCXLkDiGn8307R "HTTP/1.1 200 OK"
+2024-09-23 20:22:13 - HTTP Request: GET https://api.openai.com/v1/threads/thread_0hAIZ0QqNeuFREQJJSDOnisB/runs/run_56ZXmZoLMXVCXLkDiGn8307R "HTTP/1.1 200 OK"
+2024-09-23 20:22:15 - HTTP Request: GET https://api.openai.com/v1/threads/thread_0hAIZ0QqNeuFREQJJSDOnisB/runs/run_56ZXmZoLMXVCXLkDiGn8307R "HTTP/1.1 200 OK"
+2024-09-23 20:22:16 - HTTP Request: GET https://api.openai.com/v1/threads/thread_0hAIZ0QqNeuFREQJJSDOnisB/runs/run_56ZXmZoLMXVCXLkDiGn8307R "HTTP/1.1 200 OK"
+2024-09-23 20:22:16 - HTTP Request: GET https://api.openai.com/v1/threads/thread_0hAIZ0QqNeuFREQJJSDOnisB/messages "HTTP/1.1 200 OK"
+2024-09-23 22:16:12 - User: assistant
+2024-09-23 22:16:12 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 22:18:42 - User: assistant
+2024-09-23 22:18:42 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 22:18:44 - User: assistant
+2024-09-23 22:18:44 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 22:22:31 - User: assistant
+2024-09-23 22:22:31 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 22:27:58 - User: assistant
+2024-09-23 22:27:58 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 22:28:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 22:29:51 - User: assistant
+2024-09-23 22:29:51 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 22:29:52 - User: assistant
+2024-09-23 22:29:52 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 22:30:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 22:31:44 - User: assistant
+2024-09-23 22:31:44 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 22:34:33 - User: assistant
+2024-09-23 22:34:33 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 22:36:58 - User: assistant
+2024-09-23 22:36:58 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:02:06 - User: assistant
+2024-09-23 23:02:06 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:02:08 - User: assistant
+2024-09-23 23:02:08 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:06:35 - User: assistant
+2024-09-23 23:06:35 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:06:35 - User: assistant
+2024-09-23 23:06:35 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:06:40 - User: assistant
+2024-09-23 23:06:40 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:08:05 - User: assistant
+2024-09-23 23:08:05 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:09:15 - User: assistant
+2024-09-23 23:09:15 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:11:53 - User: assistant
+2024-09-23 23:11:53 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:13:28 - User: assistant
+2024-09-23 23:13:28 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:15:11 - User: assistant
+2024-09-23 23:15:11 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:26:50 - User: assistant
+2024-09-23 23:26:50 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:26:52 - User: assistant
+2024-09-23 23:26:52 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:28:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:29:49 - User: assistant
+2024-09-23 23:29:49 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:29:49 - User: assistant
+2024-09-23 23:29:49 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:30:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:30:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:32:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:32:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:32:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:33:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:33:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:33:30 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:33:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:33:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:34:38 - User: assistant
+2024-09-23 23:34:38 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:34:52 - User: assistant
+2024-09-23 23:34:52 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:35:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:35:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:39:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:39:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:40:50 - User: assistant
+2024-09-23 23:40:50 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:40:52 - User: assistant
+2024-09-23 23:40:52 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:42:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:42:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:42:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:42:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:42:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:43:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:43:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:44:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:52:40 - User: assistant
+2024-09-23 23:52:40 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-23 23:53:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:53:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:53:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:53:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:54:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-23 23:54:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 00:03:49 - User: assistant
+2024-09-24 00:03:49 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-24 00:03:50 - User: assistant
+2024-09-24 00:03:50 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-24 00:04:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 00:04:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 00:04:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 00:04:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 00:05:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 00:05:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 00:05:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 00:05:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 00:05:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 00:06:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 13:36:22 - User: assistant
+2024-09-24 13:36:22 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-24 13:37:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 13:38:00 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 13:38:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 13:38:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 13:38:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 13:39:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 15:20:29 - User: assistant
+2024-09-24 15:20:29 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-24 15:44:43 - User: assistant
+2024-09-24 15:44:43 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-24 15:44:49 - User: assistant
+2024-09-24 15:44:49 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-24 15:45:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 15:45:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 15:46:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 15:48:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 15:52:43 - User: assistant
+2024-09-24 15:52:43 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-24 15:54:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 15:56:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 15:57:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 15:57:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 15:57:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 23:32:30 - User: assistant
+2024-09-24 23:32:30 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-24 23:33:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 23:33:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 23:34:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 23:34:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 23:37:12 - User: assistant
+2024-09-24 23:37:12 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-24 23:37:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 23:38:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 23:39:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 23:39:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 23:56:25 - User: assistant
+2024-09-24 23:56:25 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-24 23:56:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 23:57:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 23:57:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-24 23:57:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:02:47 - User: assistant
+2024-09-25 00:02:47 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-25 00:03:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:03:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:03:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:03:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:03:30 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:03:43 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:03:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:03:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:16:13 - User: assistant
+2024-09-25 00:16:13 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-25 00:16:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:16:40 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:16:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:17:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:17:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 00:17:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:30:29 - User: assistant
+2024-09-27 16:30:29 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 16:31:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:31:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:31:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:31:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:31:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:31:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:33:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:33:43 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:40:15 - User: assistant
+2024-09-27 16:40:15 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 16:40:18 - User: assistant
+2024-09-27 16:40:18 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 16:40:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:40:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:41:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:41:21 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:41:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:41:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:41:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:41:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:43:48 - User: assistant
+2024-09-27 16:43:48 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 16:43:48 - User: assistant
+2024-09-27 16:43:48 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 16:43:52 - User: assistant
+2024-09-27 16:43:52 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 16:43:54 - Task exception was never retrieved
+future: <Task finished name='Task-115' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at C:\Users\Huawei MateBook D14\AppData\Local\Programs\Python\Python311\Lib\site-packages\tornado\websocket.py:1085> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "C:\Users\Huawei MateBook D14\AppData\Local\Programs\Python\Python311\Lib\site-packages\tornado\websocket.py", line 1087, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Huawei MateBook D14\AppData\Local\Programs\Python\Python311\Lib\site-packages\tornado\websocket.py", line 1089, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2024-09-27 16:44:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:44:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:44:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:44:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:44:49 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:45:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:45:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:45:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:45:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:49:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:49:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:49:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:49:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:49:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:50:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:50:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:50:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:50:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:50:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:51:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:52:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:52:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:52:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:52:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:52:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:53:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:53:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:53:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:53:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:53:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:53:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:53:46 - User: assistant
+2024-09-27 16:53:46 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 16:54:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:54:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:54:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:54:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:55:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:55:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:55:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:55:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:55:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:56:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:56:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:56:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:56:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:56:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:57:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:57:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:57:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 16:57:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:17:08 - User: assistant
+2024-09-27 17:17:08 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 17:17:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:17:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:17:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:18:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:18:49 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:18:49 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:22:25 - User: assistant
+2024-09-27 17:22:25 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 17:22:26 - User: assistant
+2024-09-27 17:22:26 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 17:22:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:22:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:23:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:23:43 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:23:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:24:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:24:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:24:33 - User: assistant
+2024-09-27 17:24:33 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 17:24:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:24:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:25:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:25:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:25:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:25:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:25:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:25:58 - User: assistant
+2024-09-27 17:25:58 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 17:26:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:26:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:26:43 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:26:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:27:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:27:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:27:52 - User: assistant
+2024-09-27 17:27:52 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 17:28:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:28:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:30:18 - User: assistant
+2024-09-27 17:30:18 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 17:30:29 - Retrying request to /chat/completions in 0.441811 seconds
+2024-09-27 17:30:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:31:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:31:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:31:44 - User: assistant
+2024-09-27 17:31:44 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 17:31:46 - User: assistant
+2024-09-27 17:31:46 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 17:32:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:32:40 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:32:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:32:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:35:13 - User: assistant
+2024-09-27 17:35:13 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 17:35:30 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:42:21 - User: assistant
+2024-09-27 17:42:21 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 17:43:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:44:36 - User: assistant
+2024-09-27 17:44:36 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 17:44:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:45:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:45:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:45:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:45:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:45:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:45:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:46:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 17:46:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:32:27 - User: assistant
+2024-09-27 18:32:27 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 18:32:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:33:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:33:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:33:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:34:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:34:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:34:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:34:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:34:40 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:34:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:35:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:35:40 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:35:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:35:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:36:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:36:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:44:45 - User: assistant
+2024-09-27 18:44:45 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 18:45:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:45:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:45:32 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:45:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:45:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:45:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:45:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:46:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:46:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:46:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:51:46 - User: assistant
+2024-09-27 18:51:46 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 18:52:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:53:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:53:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:53:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:53:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:53:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:53:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:54:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 18:54:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:01:41 - User: assistant
+2024-09-27 19:01:41 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 19:01:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:02:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:02:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:02:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:02:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:03:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:03:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:03:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:03:49 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:07:12 - User: assistant
+2024-09-27 19:07:12 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 19:07:13 - User: assistant
+2024-09-27 19:07:13 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 19:07:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:08:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:09:12 - User: assistant
+2024-09-27 19:09:12 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 19:09:13 - User: assistant
+2024-09-27 19:09:13 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 19:11:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:11:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:11:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:11:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:11:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:12:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:12:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:14:17 - User: assistant
+2024-09-27 19:14:17 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 19:14:17 - User: assistant
+2024-09-27 19:14:17 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 19:14:18 - User: assistant
+2024-09-27 19:14:18 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 19:14:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:14:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:15:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:15:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:15:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:15:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:15:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:15:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 19:15:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 22:55:46 - User: assistant
+2024-09-27 22:55:46 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-27 22:56:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 22:56:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 22:56:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 22:56:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 22:56:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 22:56:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 22:56:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-27 22:57:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 17:59:46 - User: assistant
+2024-09-28 17:59:46 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-28 18:00:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:00:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:00:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:00:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:00:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:01:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:01:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:03:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:03:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:03:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:03:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:14:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:14:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:14:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:14:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:16:26 - User: assistant
+2024-09-28 18:16:26 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-28 18:16:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:16:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:16:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:16:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:17:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:17:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:17:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:17:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:17:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:17:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:17:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:17:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:28:12 - User: assistant
+2024-09-28 18:28:12 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-28 18:28:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:28:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:28:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:28:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:28:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:28:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:29:00 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:29:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:29:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:29:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:29:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:29:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:29:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:29:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:31:48 - User: assistant
+2024-09-28 18:31:48 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-28 18:31:49 - User: assistant
+2024-09-28 18:31:49 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-28 18:33:00 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:33:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:33:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:33:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:33:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:33:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:33:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:34:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:34:21 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:34:30 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:36:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:36:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:36:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:36:40 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:36:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:37:59 - User: assistant
+2024-09-28 18:37:59 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-28 18:38:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:38:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:38:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:38:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:38:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:38:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:38:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:39:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:39:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:39:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:39:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:39:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:39:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:40:00 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-28 18:40:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:16:53 - User: assistant
+2024-09-29 18:16:53 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 18:16:55 - User: assistant
+2024-09-29 18:16:55 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 18:19:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:19:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:19:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:19:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:19:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:19:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:20:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:20:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:20:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:20:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:48:13 - User: assistant
+2024-09-29 18:48:13 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 18:48:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:48:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:48:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:48:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:48:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:48:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:49:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:49:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:49:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:49:43 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:49:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:50:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:50:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:50:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:50:49 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:58:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:58:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:58:49 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:58:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:59:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:59:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 18:59:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:00:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:00:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:00:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:00:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:01:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:01:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:01:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:01:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:01:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:01:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:02:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:02:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:02:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:02:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:02:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:03:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:03:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:03:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:21:21 - User: assistant
+2024-09-29 19:21:21 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 19:21:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:21:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:21:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:21:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:22:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:22:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:22:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:22:30 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:22:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:22:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:23:00 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:23:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 19:23:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:18:23 - User: assistant
+2024-09-29 21:18:23 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 21:18:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:18:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:18:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:18:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:19:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:19:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:19:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:20:03 - User: assistant
+2024-09-29 21:20:03 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 21:20:42 - Retrying request to /chat/completions in 0.386582 seconds
+2024-09-29 21:20:49 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:20:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:21:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:21:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:21:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:21:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:21:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:21:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:21:49 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:21:54 - Retrying request to /chat/completions in 0.469905 seconds
+2024-09-29 21:21:55 - Retrying request to /chat/completions in 0.802687 seconds
+2024-09-29 21:22:24 - User: assistant
+2024-09-29 21:22:24 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 21:22:25 - User: assistant
+2024-09-29 21:22:25 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 21:22:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:22:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:23:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:23:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:23:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:23:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:23:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:23:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:23:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:23:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:24:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:24:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:24:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:24:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:29:43 - User: assistant
+2024-09-29 21:29:43 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 21:30:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:30:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:31:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:31:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:31:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:31:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:31:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:31:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:35:58 - User: assistant
+2024-09-29 21:35:58 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 21:36:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:36:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:36:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:36:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:36:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:37:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:37:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:37:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:37:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:37:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:38:50 - User: assistant
+2024-09-29 21:38:50 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 21:38:51 - User: assistant
+2024-09-29 21:38:51 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 21:39:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:39:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:39:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:39:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:39:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:39:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:39:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:40:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:40:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:41:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:41:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:41:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:41:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:48:18 - User: assistant
+2024-09-29 21:48:18 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 21:48:20 - User: assistant
+2024-09-29 21:48:20 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 21:48:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:48:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:49:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:49:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:49:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:49:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:49:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:49:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:49:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:50:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:50:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:50:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:51:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:53:34 - User: assistant
+2024-09-29 21:53:34 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 21:53:34 - User: assistant
+2024-09-29 21:53:34 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 21:53:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:53:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:54:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:54:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:54:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:55:00 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:55:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:55:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:55:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 21:55:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:01:55 - User: assistant
+2024-09-29 22:01:55 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 22:02:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:02:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:02:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:02:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:02:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:02:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:02:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:03:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:03:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:13:12 - User: assistant
+2024-09-29 22:13:12 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 22:13:21 - User: assistant
+2024-09-29 22:13:21 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 22:13:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:13:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:13:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:13:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:13:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:13:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:14:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:14:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:14:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:14:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:16:26 - User: assistant
+2024-09-29 22:16:26 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-29 22:16:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:16:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:16:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:16:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:17:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:17:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:17:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:17:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-29 22:17:40 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:36:15 - User: assistant
+2024-09-30 00:36:15 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-30 00:36:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:36:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:36:43 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:36:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:36:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:37:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:37:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:37:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:37:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:37:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:39:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:39:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:40:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:40:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:40:40 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:40:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:40:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:41:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:41:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:41:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:41:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:41:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:52:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:52:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:52:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:52:32 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:52:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:52:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:53:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 00:53:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:24:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:25:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:25:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:25:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:25:30 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:30:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:30:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:30:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:30:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:30:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:30:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:31:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:31:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:31:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:31:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:31:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:31:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:33:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:33:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:33:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:34:00 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:34:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:37:37 - User: assistant
+2024-09-30 01:37:37 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-30 01:37:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:38:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:38:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:38:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:38:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:38:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:38:40 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:39:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:42:44 - User: assistant
+2024-09-30 01:42:44 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-30 01:42:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:43:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:43:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:43:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:43:21 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:43:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:43:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:43:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:43:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:43:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:51:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:51:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 01:51:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:04:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:04:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:04:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:04:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:04:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:04:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:04:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:04:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:04:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:05:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:08:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:08:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:08:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:14:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:22:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:22:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:22:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:24:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:24:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:24:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:25:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:25:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:25:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:26:57 - User: assistant
+2024-09-30 02:26:57 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-30 02:27:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:27:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:27:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:27:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:27:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:27:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:27:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:27:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:28:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 02:38:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:30:44 - User: assistant
+2024-09-30 19:30:44 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-30 19:31:32 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:31:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:31:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:31:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:32:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:32:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:32:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:32:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:33:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:33:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:33:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:43:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:51:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:51:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:52:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:53:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:53:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:53:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:54:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:59:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:59:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 19:59:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:00:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:01:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:02:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:02:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:02:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:02:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:02:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:02:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:03:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:03:21 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:03:32 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:03:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:04:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:04:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:04:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:06:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:19:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:19:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:19:40 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:20:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:20:45 - User: assistant
+2024-09-30 20:20:45 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-30 20:20:48 - User: assistant
+2024-09-30 20:20:48 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-30 20:22:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:22:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:22:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:22:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:22:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:22:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:23:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:23:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:23:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:23:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:23:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:24:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:24:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:25:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:29:08 - User: assistant
+2024-09-30 20:29:08 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-30 20:29:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:29:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:29:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:29:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:29:43 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:29:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:29:49 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:29:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:30:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:30:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:30:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:30:43 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:31:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:31:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:31:38 - User: assistant
+2024-09-30 20:31:38 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-30 20:36:43 - User: assistant
+2024-09-30 20:36:43 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-30 20:37:09 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:37:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:37:30 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:37:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:37:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:37:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:37:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:38:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:38:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:38:32 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:38:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:38:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:39:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:39:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:39:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:39:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:40:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:40:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:40:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:40:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:41:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:42:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:44:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:44:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:44:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:45:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:46:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:52:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:52:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:52:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:52:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 20:54:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:53:00 - User: assistant
+2024-09-30 22:53:00 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-09-30 22:53:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:53:30 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:54:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:54:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:54:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:54:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:54:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:54:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:54:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:55:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:55:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:55:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:55:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:55:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:56:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:56:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:56:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:56:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:57:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 22:58:52 - Retrying request to /chat/completions in 0.382720 seconds
+2024-09-30 22:58:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:00:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:00:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:14:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:14:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:14:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:14:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:14:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:14:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:16:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:17:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:17:40 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:17:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:18:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:19:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:23:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:23:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:23:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:23:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:25:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:31:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:32:00 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:32:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:32:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:33:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:37:16 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:37:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:37:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:37:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:38:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:44:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:44:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:44:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:44:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:45:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:51:46 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:51:49 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:51:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:52:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:53:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:59:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:59:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:59:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-30 23:59:40 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:00:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:04:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:04:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:04:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:05:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:08:25 - User: assistant
+2024-10-01 00:08:25 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-10-01 00:08:26 - User: assistant
+2024-10-01 00:08:26 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-10-01 00:08:42 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:08:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:08:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:08:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:09:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:09:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:09:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:09:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:09:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:09:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:09:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:09:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:10:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:10:19 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:10:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:10:38 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:11:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:11:32 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:35:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:35:17 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:35:26 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:35:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:36:37 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:42:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:42:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:43:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:43:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:44:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:52:00 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:52:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:52:10 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:52:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 00:53:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:19:28 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:19:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:19:38 - User: assistant
+2024-10-01 01:19:38 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-10-01 01:19:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:20:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:20:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:20:15 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:20:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:20:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:21:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:21:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:21:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:21:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:21:36 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:21:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:21:51 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:22:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:22:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:22:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:22:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:29:48 - User: assistant
+2024-10-01 01:29:48 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-10-01 01:30:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:30:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:30:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:30:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:30:32 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:30:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:31:08 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:31:21 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:31:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:31:32 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:31:54 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:32:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:32:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:33:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:33:33 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:33:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:33:58 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:34:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:34:32 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:34:45 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:34:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 01:35:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:20:51 - User: assistant
+2024-10-01 13:20:51 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-10-01 13:23:47 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:23:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:24:02 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:24:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:24:21 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:24:43 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:24:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:25:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:25:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:27:20 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:27:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:27:53 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:28:07 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:28:18 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:28:31 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:28:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:29:06 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:29:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:29:34 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:29:59 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:30:00 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:30:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:30:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:44:18 - User: assistant
+2024-10-01 13:44:18 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-10-01 13:45:04 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:45:13 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:45:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:45:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:45:48 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:46:11 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:55:21 - User: assistant
+2024-10-01 13:55:21 - Assistant: Hello! I am your Credit Risk Scorecards assistant. How can I assist you today?
+2024-10-01 13:55:50 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:55:57 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:56:23 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:56:25 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:56:39 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:57:01 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:57:22 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:57:35 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:57:43 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:58:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:58:55 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:59:03 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:59:27 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 13:59:41 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 14:00:12 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 14:00:24 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 14:00:52 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 14:01:05 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 14:01:32 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 14:01:44 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 14:02:14 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 14:02:30 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 14:02:56 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-01 14:03:29 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
