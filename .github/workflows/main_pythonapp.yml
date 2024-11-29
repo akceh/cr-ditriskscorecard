@@ -75,5 +75,5 @@ jobs:
       # Add command to run streamlit after deployment
       - name: Start Streamlit
         run: |
-          streamlit updated_interface1.py 
+          streamlit run stage1/updated_interface.py 
 
